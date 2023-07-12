@@ -1,5 +1,5 @@
 # Kripo
-Kodu gizli, sadece vieo ile tanıtım var
+Kodu gizli, sadece vieo ile tanıtım var. App Store dan iPad ve iPhone cihazınıza indirip kendiniz deneyebilirsiniz.
 
 # Kullandıklarım
 <p>Table View</p>
