@@ -1,5 +1,5 @@
 # Kripo
-Kodu gizli, sadece vieo ile tanıtım var. App Store dan iPad ve iPhone cihazınıza indirip kendiniz deneyebilirsiniz.
+App Store dan iPad ve iPhone cihazınıza indirip kendiniz deneyebilirsiniz. Kodu gizli, sadece vieo ile tanıtım var, aşağıdaki videonun sürümü 1.0, 1.1 sürümü ile portföy hesaplayıcı eklendi, 1.2 sürümü ile bazı hatalar giderildi.
 
 # Kullandıklarım
 <p>Table View</p>
@@ -10,4 +10,3 @@ Kodu gizli, sadece vieo ile tanıtım var. App Store dan iPad ve iPhone cihazın
 
 # Ekran Videosu
 https://github.com/eminbrdk/Kripo/assets/109954489/316f766c-193c-4326-aec2-fbdf1469b509
-
