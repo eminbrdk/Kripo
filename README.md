@@ -9,4 +9,4 @@ App Store dan iPad ve iPhone cihazınıza indirip kendiniz deneyebilirsiniz. Kod
 <p>Protocol - Delegate</p>
 
 # Ekran Videosu
-https://github.com/eminbrdk/Kripo/assets/109954489/316f766c-193c-4326-aec2-fbdf1469b509
+https://github.com/eminbrdk/Kripo/assets/109954489/45a9e799-ccdd-4399-93a1-4a5c64f736b1
